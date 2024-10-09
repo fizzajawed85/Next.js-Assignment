@@ -1,0 +1,29 @@
+.container {
+  background-color: rgb(6, 20, 44);
+  font-family: sans-serif;
+  line-height: 28px;
+  font-size: 20px;
+  height: 1000px;
+}
+
+.h3 {
+  color: rgb(250 204 21);
+  text-align: center;
+  font-family: "Arial Narrow Bold", sans-serif;
+  font-size: medium;
+  padding-top: 25px;
+  padding-left: 10px;
+  padding-right: 20px;
+  justify-content: space-between;
+}
+
+.paragraph {
+  color: rgb(213, 215, 183);
+  text-align: center;
+  font-family: "Arial Narrow Bold", sans-serif;
+  font-size: x-small;
+  justify-content: space-between;
+  padding-left: 10px;
+  padding-right: 20px;
+  text-decoration: none;
+}

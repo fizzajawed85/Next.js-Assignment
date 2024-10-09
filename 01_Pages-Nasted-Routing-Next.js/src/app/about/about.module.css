@@ -1,0 +1,35 @@
+.container {
+  background-color: rgb(6, 20, 44);
+  font-family: sans-serif;
+  line-height: 28px;
+  font-size: 20px;
+  height: 1000px;
+}
+
+.paragraph {
+  color: rgb(213, 215, 183);
+  text-align: left;
+  font-family: "Arial Narrow Bold", sans-serif;
+  font-size: x-small;
+  justify-content: space-between;
+  padding-left: 10px;
+  padding-right: 20px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-decoration: none;
+}
+
+.h4 {
+  color: rgb(250 204 21);
+  text-align: left;
+  font-family: "Arial Narrow Bold", sans-serif;
+  font-size: medium;
+  justify-content: space-between;
+}
+.h3 {
+  color: rgb(250 204 21);
+  text-align: left;
+  font-family: "Arial Narrow Bold", sans-serif;
+  font-size: medium;
+  justify-content: space-between;
+}
